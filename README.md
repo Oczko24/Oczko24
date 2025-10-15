@@ -1,6 +1,5 @@
 # Oczko24
 
-at the moment im doing obsidian obsidian theme 
 
 
 <!---
