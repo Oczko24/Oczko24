@@ -3,6 +3,7 @@
 
 
 <!---
-Oczko24/Oczko24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+TODO
+* a plugin for Obsidian that works in full-screen mode
+* fixing canvas printing on a transparent background in the repository
 --->
