@@ -4,6 +4,7 @@
 Shaping Obsidian into a more refined, evocative workspace.
 
 Currently crafting **Transparent** and **Enchanted Animations**, two works conceived to fundamentally elevate the environment.
+I use them both daily btw
 <!---
 
 --->
